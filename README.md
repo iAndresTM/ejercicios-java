@@ -47,6 +47,25 @@ public class adivinarNumero {
     }
 }
 ```
+## 📘 Segundo ejercicio: *Cajero automatico*
+
+### 🧩 Descripción
+Este programa simula las funciones básicas de un cajero automático, permitiendo al usuario:
+
+Consultar su saldo disponible.
+
+- Retirar dinero (si tiene suficiente saldo).
+
+- Depositar dinero.
+
+- Salir del sistema.
+
+---
+
+### 💻 Código fuente
+Archivo: [`app.java`](./app.java)
+
+![Vista previa del ejercicio del cajero automático](./img/ejercicio-cajero.png)
 
 ## 🛠️ Tecnologías utilizadas
 
